@@ -1,12 +1,23 @@
-https://pypi.org/project/django-admin-interface/
+for PDF
 pip install PyMuPDF
+
+for UI  visit
 https://bootswatch.com/
-https://django-adminlte2-pdq.readthedocs.io/en/latest/quickstart.html
-python -m pip install django-adminlte2-pdq
-pip install gensim
+
+for Import export
 pip install django-import-export
-pip3 install pymupdf
+
+to Loan model
 pip install smart_open
+
+for graphs
+pip install plotly
+
+for data
+pip install pandas spicy numpy
+
+for Django
+pip install Django
 
 
 
