@@ -71,8 +71,10 @@ These project notes cover essential aspects from introduction to future plans, o
 ![Untitled 9](https://github.com/user-attachments/assets/9bab035e-6c67-4fae-a5c0-aad5fc521232)
 ![Untitled 10](https://github.com/user-attachments/assets/a8f9f255-e655-420d-880b-f397f5c9c2c6)
 ![3](https://github.com/user-attachments/assets/09f60d4d-1149-49d2-91f5-913faf11b846)
+![Untitled 4](https://github.com/user-attachments/assets/0269462f-5c24-4051-a1cf-81682e7d76c2)
 ![2](https://github.com/user-attachments/assets/a413ab1c-ab0f-467c-8379-9388a071d2a1)
 ![1](https://github.com/user-attachments/assets/49023df3-7062-4047-9f78-9e9bebf7e00f)
+![9](https://github.com/user-attachments/assets/39126b98-c652-4dc1-b24c-08ffc107e68c)
 ![4](https://github.com/user-attachments/assets/f07dd0d3-1453-42b6-87f5-9ffcb988e531)
 
 **My Contacts**
